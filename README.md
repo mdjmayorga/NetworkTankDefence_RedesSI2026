@@ -103,6 +103,4 @@ To play on one computer, use `127.0.0.1` as the server IP. When playing across m
 
 Python · `socket` (UDP) · `threading` · Pygame · JSON
 
-## Author
 
-Mariano Mayorga Halabi — [GitHub](https://github.com/mdjmayorga) · Computer Engineering, TEC
